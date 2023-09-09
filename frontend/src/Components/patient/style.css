@@ -1,0 +1,47 @@
+.PageBg{
+    background: url('../Images/8.avif'); 
+
+  }
+
+  
+  .homebg{
+    background: url('../Images/4.jpg');
+    background-position: center;
+  
+  width: 100%;
+  aspect-ratio: auto ;
+  height: 921px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }  
+
+  .form-container {
+    width: 600px; /* Set the desired width */
+    height: 600px; /* Set the desired height */
+    margin: 0 auto; /* Center the form horizontally */
+  }
+
+  .navbar-logo {
+    height: 40px; /* Adjust the height as needed */
+    margin-right: 1rem;
+  }
+
+  .About{
+    background: url('../Images/3.jpg'); 
+
+   width: 200%;
+  aspect-ratio: auto ;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  }
+
+  .Contact{
+    background: url('../Images/2.jpg'); 
+
+
+  }
+
+
+
